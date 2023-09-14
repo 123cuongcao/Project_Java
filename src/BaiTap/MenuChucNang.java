@@ -78,12 +78,12 @@ public class MenuChucNang {
                               isPrime1 = false;
                               break;
                           }
-                          if(isPrime1){
-                              sumSoNguyenTo += j;
                           }
+                        if(isPrime1){
+                            sumSoNguyenTo += i;
                       }
                     }
-                    System.out.printf("tống các số nguyên tố trong khoảng từ 1 đến %d bằng %d",number,sumSoNguyenTo);
+                    System.out.printf("tống các số nguyên tố trong khoảng từ 1 đến %d bằng %d \n",number,sumSoNguyenTo);
                     break;
 
                 case 7:
