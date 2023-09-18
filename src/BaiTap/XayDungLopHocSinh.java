@@ -2,13 +2,9 @@ package BaiTap;
 
 public class XayDungLopHocSinh {
     public static void main(String[] args) {
-        // Tạo một đối tượng Student
         Student student = new Student(1, "Nguyen Van A", "Nam", "12A", 15, "123 Main Street");
-
-        // Hiển thị thông tin của học sinh
         student.display();
     }
-
     public static class Student{
         private int studentId;
         private String studentName;
