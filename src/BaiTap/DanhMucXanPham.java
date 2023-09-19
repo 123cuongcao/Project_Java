@@ -13,6 +13,7 @@ public class DanhMucXanPham {
         private int categoryId;
         private String categoryName;
 
+
         public Category() {
             // Khởi tạo các thuộc tính mặc định
             this.categoryId = 0;
