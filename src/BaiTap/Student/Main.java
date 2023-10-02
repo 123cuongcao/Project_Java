@@ -4,7 +4,6 @@ package BaiTap.Student;
     public class Main {
         public static void main(String[] args) {
             Student student = new Student();
-
             student.setName("Alice");
             student.setClasses("A01");
 
