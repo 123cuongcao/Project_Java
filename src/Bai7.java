@@ -13,8 +13,5 @@ public class Bai7 {
         map.put(4,"cuong3");
         map.put(5,"cuong4");
         map.put(6,"cuong5");
-
-
-
     }
 }
